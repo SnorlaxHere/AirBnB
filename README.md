@@ -63,5 +63,5 @@ This application provides backend APIs for a hotel management system, including 
 - **POST** `/webhook/payment` - Capture payments
 
 ###Schema
-![Image](https://github.com/user-attachments/assets/bc209296-e0f2-48f9-a7ae-65d084e4cb6c)
+![Image](https://github.com/SnorlaxHere/user-attachments/blob/main/assests/423202353-bc209296-e0f2-48f9-a7ae-65d084e4cb6c.png)
 
