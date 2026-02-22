@@ -2,7 +2,7 @@
 
 This application provides backend APIs for a hotel management system, including inventory management, booking flow, user authentication, and hotel browsing.
 
-![Image](https://github.com/user-attachments/assets/585136d9-05b5-4832-ad37-0a47d4678433)
+![Image]([https://github.com/user-attachments/assets/585136d9-05b5-4832-ad37-0a47d4678433](https://github.com/SnorlaxHere/user-attachments/blob/5dea59aedfe18e5ca1f0f2990315bbd40726ef91/assests/Screenshot%202026-02-23%20042840.jpg))
 
 ## Features
 
